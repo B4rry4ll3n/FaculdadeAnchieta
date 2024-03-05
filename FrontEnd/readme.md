@@ -27,3 +27,8 @@
 <a href="https://integrada.minhabiblioteca.com.br/#/books/9788536533049"> ZABOT, Diego; MATOS, Ecivaldo de Souza. APLICATIVOS COM BOOTSTRAP E ANGULAR – COMO DESENVOLVER APPS RESPONSIVOS. São Paulo: Érica, 2020. E-book. ISBN 9788536533049</a>
 
 
+
+### Dica do prof:
+
+## Fazer um wireframe de uma página e desenvolver em HTML
+
