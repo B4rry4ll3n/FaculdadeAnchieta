@@ -1,0 +1,16 @@
+MARÇAL, J.
+
+CONTEÚDO
+
+LINKS PROGRAMAS PORTUGOL
+  Portugol WebStudio: https://portugol-webstudio.cubos.io/
+  Portugol:           http://orion.ipt.pt/~manso/Portugol/
+  Portugol Online:    https://vinyanalista.github.io/portugol/
+  VisualG:            https://visualg3.com.br/
+
+DIAGRAMA DE BLOCOS
+  https://app.creately.com/diagram/clxehVAgZ2J/edit
+  https://online.visual-paradigm.com/drive/#diagramlist:proj=0&new=Flowchart
+  https://infograph.venngage.com/register?pathEN=/flowchart-maker/
+  
+  
